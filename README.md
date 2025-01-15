@@ -55,7 +55,6 @@ Recentemente, tenho me dedicado ao estudo de ***Inteligência Artificial*** atra
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NeuralXP&color=red)
 
-![GitHub Contributions](https://img.shields.io/github/contributions/NeuralXP?color=darkred&label=Contribuições)
 
 
 
