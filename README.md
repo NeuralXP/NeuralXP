@@ -52,6 +52,10 @@ Recentemente, tenho me dedicado ao estudo de ***Inteligência Artificial*** atra
 ## 📈 Estatísticas  
 ![NeuralXP's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeuralXP&show_icons=true&theme=dracula)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeuralXP&layout=compact&theme=dracula)
+![Profile Views](https://komarev.com/ghpvc/?username=NeuralXP&color=red)
+![GitHub Contributions](https://img.shields.io/github/contributions/NeuralXP?color=darkred&label=Contribuições)
+
+
 
 ---
 
@@ -69,6 +73,3 @@ Recentemente, tenho me dedicado ao estudo de ***Inteligência Artificial*** atra
 ## 🌐 Conecte-se comigo!  
 🔗 [LinkedIn](https://www.linkedin.com/in/heitor-exposito-de-sousa/)  
 🔗 [GitHub²](https://github.com/HeitorExp)
-
-
-███▓▒░░.░░▒▓███
