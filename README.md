@@ -24,6 +24,7 @@ Recentemente tenho me dedicado ao estudo de ***Inteligência Artificial***, atra
 🔹 **Linguagens de Programação**: Python, R, e frameworks como TensorFlow e PyTorch.  
 🔹 **Ferramentas e Tecnologia**:
 
+<p align = "center" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50px" />
@@ -36,7 +37,8 @@ Recentemente tenho me dedicado ao estudo de ***Inteligência Artificial***, atra
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="50px" />
-          
+
+</p>        
           
           
 
