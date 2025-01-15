@@ -40,14 +40,12 @@ Recentemente tenho me dedicado ao estudo de ***Inteligência Artificial***, atra
 🔹 **Bio-inspired AI**: Algoritmos genéticos e outros modelos bioinspirados.  
 🔹 **Linguagens de Programação**: Python, R, e frameworks como TensorFlow e PyTorch.  
 🔹 **Ferramentas e Tecnologia**:     
-<p>
+
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
   ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white)  
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-  
-</p>
 
 ---
 
