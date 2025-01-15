@@ -21,10 +21,12 @@
 
 👋 Olá! Meu nome é **Heitor**, sou apaixonado por ***dados*** desde o início do meu curso de ***Ciência da Computação***.
 
-Recentemente tenho me dedicado ao estudo de ***Inteligência Artificial***, através da criação de projetos com diferentes arquiteturas de *redes neurais artificiais* e *algoritmos bioinspiradas para problemas ambientais*. Este é o meu espaço no GitHub, mas sinta-se livre para interagir e colaborar com os projetos.  
+Recentemente, tenho me dedicado ao estudo de ***Inteligência Artificial*** através da criação de projetos com diferentes arquiteturas de *redes neurais artificiais* e algoritmos bioinspiradas com foco em resolver ***problemas ambientais***. Este é o meu espaço no GitHub, mas sinta-se livre para interagir e colaborar com os projetos.  
 
 ---
-## 🧠 Sobre mim  
+
+## 🧠 Sobre mim
+
 - 🎓 **Meta**: Tornar-me um engenheiro de IA com domínio em Redes Neurais, Transformers e algoritmos bioinspirados.  
 - 🌱 **Atualmente explorando**: Transformers, ViTs e avanços em IA explicável.  
 - 🌍 **Missão**: Criar soluções tecnológicas que impactem positivamente o meio ambiente e a sociedade.  
@@ -33,21 +35,19 @@ Recentemente tenho me dedicado ao estudo de ***Inteligência Artificial***, atra
 ---
 
 
-## 🚀 Minhas Especialidades  
+## 🚀 Estudando agora
 
 🔹 **Redes Neurais**: RNA, CNNs, GANs, GNNs.  
 🔹 **Transformers**: Estudos detalhados de *Attention is All You Need*.  
 🔹 **Bio-inspired AI**: Algoritmos genéticos e outros modelos bioinspirados.  
-🔹 **Linguagens de Programação**: Python, R, e frameworks como TensorFlow e PyTorch.  
-🔹 **Ferramentas e Tecnologia**:     
+🔹 **Linguagens de Programação**: Python, R, e frameworks como TensorFlow e PyTorch.
+
 
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
   ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white)  
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-
----
 
 ## 📈 Estatísticas  
 ![NeuralXP's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NeuralXP&show_icons=true&theme=dracula)  
@@ -69,3 +69,6 @@ Recentemente tenho me dedicado ao estudo de ***Inteligência Artificial***, atra
 ## 🌐 Conecte-se comigo!  
 🔗 [LinkedIn](https://www.linkedin.com/in/heitor-exposito-de-sousa/)  
 🔗 [GitHub²](https://github.com/HeitorExp)
+
+
+███▓▒░░.░░▒▓███
