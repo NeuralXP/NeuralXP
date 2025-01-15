@@ -2,7 +2,9 @@
 # 🌌 Welcome to NeuralXP's Universe 🌌  
 *AI Engineer in Progress | Bridging Intelligence and Sustainability*
 
-👋 Olá! Eu sou **Heitor** (*a.k.a. NeuralXP*), apaixonado por Inteligência Artificial, redes neurais e tecnologias bioinspiradas que fazem a diferença no mundo. Este é o meu espaço no GitHub, onde a inovação encontra a sustentabilidade.  
+👋 Olá! Meu nome é **Heitor**, sou apaixonado por ***dados*** desde o início do meu curso de ***Ciência da Computação***.
+
+Recentemente tenho me dedicado ao estudo de ***Inteligência Artificial***, através da criação de projetos com diferentes arquiteturas de *redes neurais artificiais* e *algoritmos bioinspiradas para problemas ambientais*. Este é o meu espaço no GitHub, mas sinta-se livre para interagir e colaborar com os projetos.  
 
 ---
 ## 🧠 Sobre mim  
@@ -13,12 +15,36 @@
 
 ---
 
+
 ## 🚀 Minhas Especialidades  
+
 🔹 **Redes Neurais**: RNA, CNNs, GANs, GNNs.  
 🔹 **Transformers**: Estudos detalhados de *Attention is All You Need*.  
 🔹 **Bio-inspired AI**: Algoritmos genéticos e outros modelos bioinspirados.  
 🔹 **Linguagens de Programação**: Python, R, e frameworks como TensorFlow e PyTorch.  
 🔹 **Ferramentas e Tecnologia**:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  widht = "10px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" widht = "10px" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" widht = "10px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" widht = "10px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" widht = "10px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" widht = "10px" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" widht = "10px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" widht = "10px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" widht = "10px" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" widht = "10px" />
+          
+          
+          
+          
+          
+          
+          
+          
+
 ---
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
