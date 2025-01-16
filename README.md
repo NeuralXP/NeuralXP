@@ -30,7 +30,6 @@ Recentemente, tenho me dedicado ao estudo de ***Inteligência Artificial*** atra
 - 🎓 **Meta**: Tornar-me um engenheiro de IA com domínio em Redes Neurais, Transformers e algoritmos bioinspirados.  
 - 🌱 **Atualmente explorando**: Transformers, ViTs e avanços em IA explicável.  
 - 🌍 **Missão**: Criar soluções tecnológicas que impactem positivamente o meio ambiente e a sociedade.  
-- 🔗 **Bio**: "AI Engineer in Progress 🌱 | Building a World of Impactful Neural Networks 🌎"
 
 ---
 
