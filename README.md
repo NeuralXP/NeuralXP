@@ -39,7 +39,7 @@ Recentemente, tenho me dedicado ao estudo de ***Inteligência Artificial*** atra
 🔹 **Redes Neurais**: RNA, CNNs, GANs, GNNs.  
 🔹 **Transformers**: Estudos detalhados de *Attention is All You Need*.  
 🔹 **Bio-inspired AI**: Algoritmos genéticos e outros modelos bioinspirados.  
-🔹 **Linguagens de Programação**: Python, R, e frameworks como TensorFlow e PyTorch.
+🔹 **Linguagens de Programação**: Python, em especial os frameworks TensorFlow e PyTorch mas as vezes R.
 
 
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
