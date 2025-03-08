@@ -1,5 +1,5 @@
 
-# 🌌 Welcome to NeuralXP's Universe 🌌  
+# 🌌 Welcome 🌌  
 *AI Engineer in Progress | Bridging Intelligence and Sustainability*
 
 <p align = "center" >
