@@ -59,14 +59,7 @@ Recentemente, tenho me dedicado ao estudo de ***Inteligência Artificial*** atra
 
 ---
 
-## 🌟 Destaques  
-### 🔹 Projetos de IA  
-- **[Nome do Projeto 1](#)**: Descrição breve e link para o repositório.  
-- **[Nome do Projeto 2](#)**: Descrição breve e link para o repositório.
 
-### 🔹 Publicações e Aprendizados  
-- Artigo em desenvolvimento sobre bio-inspired AI.  
-- **"Attention is All You Need"**: Uma revisão detalhada.
 
 ---
 
